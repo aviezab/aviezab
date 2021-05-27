@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi! I am aviezab!  👋
 
-<!--
-**aviezab/aviezab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aviezab&hide=javascript,css,html,jupyter%20notebook&custom_title=Own%20Repo%20Most%20Used%20Language&theme=gruvbox)
+![aviezab's github stats](https://github-readme-stats.vercel.app/api?username=aviezab&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Work as Entrepreneur, AI Engineer Lead, Freelancer and Trainer
+- 💻 Arch Linux User. I have been years not using Windows.
+- 🌱 Growing and learning, especially in Back End technologies and Artificial Intelligence (Machine Learning, Deep Learning).
+- 👤 [LinkedIn](www.linkedin.com/in/aviezab)
+- 💡Contribution
+
+
+
+
+![Contribution](https://github-readme-stats.vercel.app/api/pin/?username=aviezab&repo=dlib&show_owner=1&theme=tokyonight)
+![Contribution](https://github-readme-stats.vercel.app/api/pin/?username=aviezab&repo=dejavu&show_owner=1&theme=tokyonight)
+![Contribution](https://github-readme-stats.vercel.app/api/pin/?username=aviezab&repo=iotku&show_owner=1&theme=tokyonight)
+![Contribution](https://github-readme-stats.vercel.app/api/pin/?username=aviezab&repo=simple_file_transfer&show_owner=1&theme=tokyonight)
