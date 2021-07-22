@@ -7,7 +7,7 @@
 - 💼 Work as Entrepreneur, AI Engineer Lead, Freelancer and Trainer
 - 💻 Arch Linux User. I have been years not using Windows.
 - 🌱 Growing and learning, especially in Back End technologies and Artificial Intelligence (Machine Learning, Deep Learning).
-- 👤 [LinkedIn](www.linkedin.com/in/aviezab)
+- 👤 [LinkedIn](https://www.linkedin.com/in/aviezab)
 - 💡Contribution
 
 
